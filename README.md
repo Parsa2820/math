@@ -1,9 +1,12 @@
 # math
+[![Upload Python Package](https://github.com/Parsa2820/math/actions/workflows/python-publish.yml/badge.svg)](https://github.com/Parsa2820/math/actions/workflows/python-publish.yml)
+[![PyPI](https://img.shields.io/pypi/v/math-command-line?label=PyPI)](https://pypi.org/project/math-command-line/)
+
 I often find myself opening a python shell from the command line in order to do some quick math. Now I don't have to.
 
 ## Installation
 ```bash
-$ pip install math
+$ pip install math-command-line
 ```
 
 ## Usage
